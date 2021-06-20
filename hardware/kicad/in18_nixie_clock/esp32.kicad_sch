@@ -1,0 +1,16 @@
+(kicad_sch (version 20210615) (generator eeschema)
+
+  (uuid f4962d1c-5f93-4828-898c-5b0e8cd9b728)
+
+  (paper "A4")
+
+  (title_block
+    (title "IN18 nixie clock")
+    (date "2021-06-20")
+    (rev "V0.1")
+  )
+
+  (lib_symbols
+  )
+
+)
