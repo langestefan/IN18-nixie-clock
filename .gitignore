@@ -24,3 +24,16 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# Some png
+zRVvk.png
+MAX 1771 V5 schematic.png
+
+# datasheets
+datasheets
+
+# html
+Dimming the Nixies_files
+
+# Tina TI
+nixie_driver.TSC
