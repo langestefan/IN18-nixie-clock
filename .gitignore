@@ -37,3 +37,6 @@ Dimming the Nixies_files
 
 # Tina TI
 nixie_driver.TSC
+
+# backups
+*-backups
