@@ -1,4 +1,4 @@
-(kicad_sch (version 20210615) (generator eeschema)
+(kicad_sch (version 20210621) (generator eeschema)
 
   (uuid 6a31cc8b-e550-4108-a66b-52f701e0f446)
 
@@ -13,4 +13,17 @@
   (lib_symbols
   )
 
+
+  (hierarchical_label "+12V" (shape input) (at 45.72 43.18 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 97307615-7020-4399-86fe-ecb1fb60113a)
+  )
+  (hierarchical_label "+5V" (shape output) (at 89.535 53.34 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 90f031ca-7b31-40cc-ab2f-17490b18ddda)
+  )
+  (hierarchical_label "+3V3" (shape output) (at 95.25 67.945 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid f259d5b9-bf56-417c-be67-84f88aa8b867)
+  )
 )
